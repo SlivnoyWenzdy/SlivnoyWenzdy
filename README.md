@@ -46,14 +46,6 @@
 
 ---
 
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Slivnoywen&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<!--END_SECTION:activity-->
-
----
-
 ### 💡 About Me
 
 ```java
