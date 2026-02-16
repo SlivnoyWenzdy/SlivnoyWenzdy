@@ -4,15 +4,15 @@
 
 backend dev
 
-java · c# · c++ · node.js · mysql · redis · docker
+java · node.js · mysql · redis · docker
 
 ---
 
-📩 **связь:** [@swagbroya](https://t.me/slivnoywenzdy)
+📩 **связь:** [@SlivnoyWenzdy](https://t.me/slivnoywenzdy)
 
-нужна помощь — пишите в тг
+Нужна помощь — пишите в тг
 
-пишу плагины на заказ — тоже в тг
+Пишу плагины на заказ — тоже в тг
 
 ---
 
